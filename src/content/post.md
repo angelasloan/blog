@@ -1,5 +1,23 @@
-# My Blog
+# Welcome!
 
-This is my home page. 
+This is my very first blog post, on my first blog. 
 
-Learning how to use git.
+## Getting started!
+
+I'm not exactly sure what my blog will be about, but I'm going to try to add new content frequently.
+
+## Topics
+
+What to write about?!
+
+- Recipes
+- Family Bands
+- Art
+- Circi
+- Octopi
+- Opposumses
+
+## Jovial things
+
+lalala
+

@@ -1,4 +1,5 @@
 *.sublime-project
 *.sublime-workspace
+*.code-*
 
 node_modules
