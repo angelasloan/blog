@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-# Blog
+# {{ page.title }} (README.md)
 
 > Just getting something started
 

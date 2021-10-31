@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Blog
 ---
 
-# Blog
+# Blog (index)
 
 > Just getting something started
 
