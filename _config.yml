@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+
+# Setup
+title:      Angela Sloan
+tagline:    A blog
+baseurl:    ""
+paginate:   1
+locale:     "en"
+
+# About/contact
+author:
+  name:     Angela Sloan
+  url:      https://angelasloan.github.io/blog/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
