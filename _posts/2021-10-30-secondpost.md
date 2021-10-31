@@ -4,4 +4,4 @@ title: Second post
 author: Angela Sloan
 ---
 
-{{ page.title }}, {{ page.author }}
+{{ post.title }}, {{ post.author }}
