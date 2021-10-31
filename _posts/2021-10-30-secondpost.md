@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Second post
 author: Angela Sloan
 ---
